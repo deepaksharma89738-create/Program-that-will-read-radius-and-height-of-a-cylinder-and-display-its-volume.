@@ -1,0 +1,2 @@
+# Program-that-will-read-radius-and-height-of-a-cylinder-and-display-its-volume.
+This program calculates the volume of a cylinder by reading the radius and height from the user. It uses the standard formula V = π × r × r × h to compute the result. The program demonstrates user input, use of variables, mathematical calculation, and clear output, making it easy for beginners to understand basic programming concepts.
